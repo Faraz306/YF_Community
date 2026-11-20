@@ -1,0 +1,5 @@
+streamlit
+streamlit_confetti
+bcrypt
+pillow
+google-genai
